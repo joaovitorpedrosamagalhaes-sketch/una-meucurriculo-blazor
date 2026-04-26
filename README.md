@@ -1,4 +1,4 @@
-João Vitor Pedrosa Magalhães - Análise e Desenvolvimento de Sistemas
+João Vitor Pedrosa Magalhães / Luiz Guilherme Thomaz de Souza Eusébio - Análise e Desenvolvimento de Sistemas
 
 Guia do Projeto – Currículo em Blazor
 Guia de Execução
